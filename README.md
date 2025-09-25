@@ -144,5 +144,8 @@ Over time, these improvements can lead to higher income, reduced financial vulne
 
 ## Research and References
 <h3></h3>
-<ul><li>https://www.nabard.org/annual-report/towards-inclusive-development.html
-https://arxiv.org/abs/2108.09766</li></ul>
+<ul><li>The NABARD report “Towards Inclusive Development” outlines the institution’s multi‑pronged strategy in rural India to foster inclusive growth, especially through scaling up microfinance, strengthening community institutions (SHGs, JLGs, FPOs), supporting farm and off‑farm livelihoods, enabling rural entrepreneurship, boosting market access and digital inclusion, and leveraging research and capacity building to ensure sustainable rural development.
+	https://www.nabard.org/annual-report/towards-inclusive-development.html
+	
+The paper “Role of Information and ICTs as Determinants of Farmer’s Adaptive Capacity to Climate Risk: An Empirical Study From Haryana, India” analyzes survey data from 463 farmers in Haryana to evaluate how information flow, ICT access, and the functioning of the ICT ecosystem influence farmers’ ability to adapt to climate variability, finding that improved information and ICT infrastructure significantly strengthen farmers’ adaptive capacity
+	https://arxiv.org/abs/2108.09766</li></ul>
